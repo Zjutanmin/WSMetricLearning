@@ -1,0 +1,9 @@
+%%%feattype
+setting.feattype = {'lbp'};
+setting.overlap = 0;
+setting.stride = 8;
+setting.swin = 8;
+setting.descriptor = {'c'};
+
+
+[ap1, ap2] = ObjDet_svm('inria','person','rLBP_0',0,0,1,1,'kmeans','x2',1,2,2,2,62,1,1,0.25,1,1,0,[20,0.1],5,1e-6,0.85,201,1,100)

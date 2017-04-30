@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ml-group/!svn/ver/556/trunk/maintenance/LMNN/mLMNN2.4
+END
+demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ml-group/!svn/ver/558/trunk/maintenance/LMNN/mLMNN2.4/demo.m
+END
+knncl.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ml-group/!svn/ver/144/trunk/maintenance/LMNN/mLMNN2.4/knncl.m
+END
+install.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ml-group/!svn/ver/557/trunk/maintenance/LMNN/mLMNN2.4/install.m
+END
+lmnn2.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ml-group/!svn/ver/145/trunk/maintenance/LMNN/mLMNN2.4/lmnn2.m
+END
+applypca.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ml-group/!svn/ver/384/trunk/maintenance/LMNN/mLMNN2.4/applypca.m
+END
+setpaths.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ml-group/!svn/ver/144/trunk/maintenance/LMNN/mLMNN2.4/setpaths.m
+END
+gb_lmnn.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ml-group/!svn/ver/144/trunk/maintenance/LMNN/mLMNN2.4/gb_lmnn.m
+END
+laurenslmnn.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ml-group/!svn/ver/144/trunk/maintenance/LMNN/mLMNN2.4/laurenslmnn.m
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ml-group/!svn/ver/559/trunk/maintenance/LMNN/mLMNN2.4/Readme.txt
+END
