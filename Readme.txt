@@ -15,9 +15,9 @@ This package contains the MATLAB code for feature exaction, dimension reduction,
 
 The software included here implements the algorithm described in
 
-[1] Min Tan, Baoyuan Wang, Zhaohui Wu, Jingdong Wang, Gang Pan. 
-   Weakly Supervised Metric Learning for Traffic Sign Recognition in a LIDAR Equipped Vehicle. 
-   IEEE Transactions on Intelligent Transportation Systems. in press, 2015.
+[1]Tan, M., Wang, B., Wu, Z., Wang, J., & Pan, G. (2016). 
+   Weakly supervised metric learning for traffic sign recognition in a lidar-equipped vehicle. 
+   IEEE Transactions on Intelligent Transportation Systems, 17(5), 1415-1427.
 
    Implemetation of the Weakly Supervised Metric Learning (WSMLR) Algorithm
 
