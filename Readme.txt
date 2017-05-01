@@ -15,7 +15,7 @@ This package contains the MATLAB code for feature exaction, dimension reduction,
 
 The software included here implements the algorithm described in
 
-[1]Tan, M., Wang, B., Wu, Z., Wang, J., & Pan, G. (2016). 
+[1] Min Tan, Baoyuan Wang, Zhaohui Wu, Jingdong Wang, Gang Pan. (2016). 
    Weakly supervised metric learning for traffic sign recognition in a lidar-equipped vehicle. 
    IEEE Transactions on Intelligent Transportation Systems, 17(5), 1415-1427.
 
