@@ -1,0 +1,3 @@
+setting.totate = [0, 10, -10, 20, -20];
+setting.displace = [0, 1, 2];
+setting.latent = 1;

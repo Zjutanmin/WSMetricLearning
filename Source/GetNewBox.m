@@ -1,0 +1,9 @@
+function [xx1, xx2, yy1, yy2] = GetNewBox(x1, x2, y1, y2)
+xx1 = max(x1, 0);
+xx2 = min(x2, 1);
+yy1 = max(y1, 0);
+yy2 = min(y2, 1);
+% % % xx1 = x1;
+% % % xx2 = x2;
+% % % yy1 = y1;
+% % % yy2 = y2;

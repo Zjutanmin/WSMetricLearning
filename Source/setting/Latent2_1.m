@@ -1,0 +1,1 @@
+setting.rotate = [0, 10, -10];
