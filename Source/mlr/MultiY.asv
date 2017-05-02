@@ -1,4 +1,0 @@
-function [Ypos, Ynegative] = MultiY(Ypos, Ynegative, nbase, Nrotate)
-Plus = [0:Nrotate-1] * nbase;
-Ypos = repmat(Ypos(:),[Nrotate,1])+ repmat(Plus,[length(Ypos),1])(:);
-Ynegative = repmat(Ynegative(:),[Nrotate,1]) + repmat(Plus,[length(Ynegative),1]);

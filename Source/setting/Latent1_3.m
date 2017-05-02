@@ -1,1 +1,0 @@
-setting.displace = [0, 1, 2, 3];
